@@ -4,6 +4,7 @@ Calculator
 
 Travis info
 
+[![Build Status](https://travis-ci.org/VukoDrakk/calculator-github-test.svg?branch=master)](https://travis-ci.org/VukoDrakk/calculator-github-test)
 ---------
 
 
